@@ -16,12 +16,12 @@ fi
 # Clone cathook
 #
 
-git clone --depth 1 https://github.com/nullworks/cathook
+git clone --depth 1 https://github.com/Catmasta101/mastahook
 
 #
 # Run cathook's install all script
 #
 
-pushd cathook
+pushd mastahook
 bash ./install-all
 popd
